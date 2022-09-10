@@ -1,6 +1,6 @@
 ## **A CHAT-BOT Communication sequence output**
 
-***Hello! My name is Bot.***
+***Hello! My name is Bot.***<br>
 ***I was created in 2022.***
 ***Please, remind me your name.***
 Name
